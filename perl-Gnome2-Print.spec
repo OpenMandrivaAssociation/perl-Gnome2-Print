@@ -3,7 +3,7 @@
 Summary:	Perl module for the gnome print library
 Name:		perl-%module
 Version:	1.000
-Release:	14
+Release:	15
 License:	GPL or Artistic
 Group:		Development/GNOME and GTK+
 Source0:	%{module}-%{version}.tar.bz2
