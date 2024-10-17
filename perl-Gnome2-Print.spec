@@ -8,7 +8,7 @@ License:	GPLv2 or Artistic
 Group:		Development/GNOME and GTK+
 Source0:	%{module}-%{version}.tar.bz2
 Source100:	%{name}.rpmlintrc
-Url:		http://gtk2-perl.sf.net/
+Url:		https://gtk2-perl.sf.net/
 Buildrequires:	perl-ExtUtils-Depends 
 Buildrequires:	perl-Gnome2 >= 0.30
 Buildrequires:	perl-Glib > 1.00
